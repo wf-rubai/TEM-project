@@ -22,11 +22,11 @@ section which contains a summary on THE ENIGMA.........
 #include <string.h>              ///   ----------------------------------------------------
 #include <termios.h>             ///   
 void management();               ///...done by Washio Ferdous && designed by Washio Ferdous
-int login(int n);                ///...done by Washio Ferdous
-int in_app_login(int n);         ///...done by Washio Ferdous
-int add_id(int n);               ///...done by Nazifa Anjum   && designed by Washio Ferdous
+int  login(int n);               ///...done by Washio Ferdous
+int  in_app_login(int n);        ///...done by Washio Ferdous
+int  add_id(int n);              ///...done by Nazifa Anjum   && designed by Washio Ferdous
 void user_data(int n);           ///...done by Mumtahina      && designed by Washio Ferdous
-int remove_id(int a);            ///...done by Washio Ferdous && designed by Washio Ferdous
+int  remove_id(int a);           ///...done by Washio Ferdous && designed by Washio Ferdous
 void encrypt(int f);             ///...done by Washio Ferdous && designed by Washio Ferdous
 void decrypt();                  ///...done by Washio Ferdous && designed by Washio Ferdous
 void history();                  ///...done by Washio Ferdous && designed by Washio Ferdous
